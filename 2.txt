@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+   milao    1457       1 ?        09:45:39 /usr/bin/mintty
+   milao    1458    1457 pty0     09:45:39 /usr/bin/bash
+   milao    1527    1458 pty0     10:14:39 /usr/bin/ps
